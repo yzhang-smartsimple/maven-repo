@@ -12,11 +12,4 @@
             <url>https://maven.pkg.github.com/yzhang-smartsimple/maven-repo</url>
         </repository>
     </distributionManagement>
-    <dependencies>
-        <dependency>
-            <groupId>org.zefer.pd4ml</groupId>
-            <artifactId>pd4ml</artifactId>
-            <version>3112</version>
-        </dependency>
-    </dependencies>
 </project>
